@@ -15,14 +15,15 @@
 # Number of incidents are going down with years. Does this represent 
 # the reality?
 
+# Where do we have the highest number of incidents? Time? Weekday? 
+# Do Saturday nights have more incidents? (possibly related to drink and drive)
 
+# To predict: incident counts on a particular day / time / delegation.
 
+# Where do most of the "false" incidents occur? why could this be happening?
 
-
-# Donde hay mas incidentes? a que horas del dia, dia de semanam etc? tiene que ver con la fiesta?
-# Predict: numbero de incidentes en un dia particular, en la noche, de la semana en una delegacion
-# where "supposetly"do the false incidents occur?
-# which area of the city/delegstion hass the most detentions/deaths
+# which delegation hass the most detentions/deaths? 
+#Is this correlated to economical status average of felegation?
 
 # Sources: 
 #https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5
