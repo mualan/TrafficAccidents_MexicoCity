@@ -10,7 +10,7 @@
 ##########################################
 
 
-# Questions - confirmed incidents
+# Questions - used dataset on confirmed incidents 
 
 # Number of incidents are going down with years. Does this represent 
 # the reality?
